@@ -303,6 +303,9 @@ pytest --cov=app tests/
 - SQLite подходит для разработки, для продакшена рекомендуется PostgreSQL
 - Индексы в базе данных оптимизируют поиск по email и username
 
+<img width="1440" height="938" alt="image" src="https://github.com/user-attachments/assets/2355b13c-94cc-402e-8cac-51fba4511e97" />
+
+<img width="1411" height="937" alt="image" src="https://github.com/user-attachments/assets/df10be7e-3dbe-4452-85a2-82aab9454b84" />
+
 ---
 
-**Happy Coding!** 🚀
